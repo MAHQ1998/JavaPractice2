@@ -1,0 +1,26 @@
+****Whenever we create new project we need to create new Repository with same name****
+--- perform following:-
+--- from terminal/cmd of Intellij > enter >
+-git init
+-git add src- for all src file
+  or - git add. - all kind of file
+  or - git add filepath>content of the file path for specific file/class
+-git commit -m"your message"
+-if git config shows up, copy paste the commands from the terminal/cmd and add your email & username
+-copy whole repository path from github with command such as- "git remote add origin https://github.com....
+-git push -u origin master ( maybe 'main' from next month instead of master.
+-----------------------------------------------------------------------------------------------------------
+
+****After that if we want push code to github in our older repository**
+3 steps--
+--git add src- for all src file
+     or - git add. - all kind of file
+     or - git add filepath>content of the file path for specific file/class
+--git commit -m"your message"
+--git push origin master
+-------------------------------------------------------------------------------------
+My github username "MAHQ1998" pw: "Mamur98!"
+
+My git hub: https://github.com/MAHQ1998
+all my code till oct24: https://github.com/MAHQ1998/Oct24Day6
+Instructor Zan: https://github.com/Errr0rr404/OCT-2020/tree/master/src
