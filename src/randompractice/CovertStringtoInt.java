@@ -1,7 +1,5 @@
 package randompractice;
 
-import javax.sound.midi.Soundbank;
-import java.sql.SQLOutput;
 
 public class CovertStringtoInt {
     public static void main(String[] args) {
