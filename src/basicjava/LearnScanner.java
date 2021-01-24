@@ -24,6 +24,14 @@ public class LearnScanner {
         int age= input.nextInt();
         System.out.println("My age is "+age);
 
+        System.out.println("Enter1st number");
+        int firstNumber = input.nextInt();
+        System.out.println("Enter1st number");
+        int secondNumber = input.nextInt();
+        System.out.println("OutPut :"+ firstNumber*secondNumber);
+
+
+
 
         input.close();
 
